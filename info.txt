@@ -1,0 +1,40 @@
+/* *************************************************************************** */
+/*                                                                             */
+/*   XXXVIII PhD Course on Big Data & AI @ Mercatorum University               */
+/*                                                                             */
+/*   By: vstile <vittoriostile@gmail.com>                                      */
+/*   Link-in-bio page: https://linktr.ee/vstile                                */
+/*                                                                             */
+/*   Created: 2024/09/09 by vstile                                             */
+/*   Updated: 2024/09/09 by vstile                                             */
+/*                                                                             */
+/* *************************************************************************** */
+
+The dataset is downloaded from the internet in real time:
+Reference: https://paperswithcode.com/dataset/olivetti-face
+
+/*                          May the Force Be with You                          */
+
+/*
+**                                `-osyyyyso-`
+**                             `.sd+/dmmmmd/ods.`
+**                           `odo/dm++mmmm/omd/od+`
+**                          -hmmmo/md-ymmy:mm/ommmh-
+**           ``./o++:---:///++smmdsdmhhmmhdmdsdmms++///:---:++o/.``
+**             `.:/ohmmmmmmmmmh+////odmddmdo////+hmmmmmmmmmho/:.`
+**               `:+//++oooyms./++++/.+::+./++++/.smyooo++//+:`
+**                 `:+ss//::mh+-/so./s.hy.s/.os/-+hm::/oss+:`
+**                    `-///.dmdyoooss/-ys-+ysoooydmd.///-`
+**                         `/d:smmd/+hdyydh/+dmmmmd/`
+**                           -ssdm//yyyyyyyy:ommmy-
+**                            `:hd.yyyyyyyyys-mh:`
+**                              `+hmmmmmmmmmdh+`
+**                                `/osyyyyso/`
+**
+**          ____    ____   _______.___________.__   __       _______
+**          \   \  /   /  /       |           |  | |  |     |   ____|
+**           \   \/   /  |   (----`---|  |----|  | |  |     |  |__
+**            \      /    \   \       |  |    |  | |  |     |   __|
+**             \    / .----)   |      |  |    |  | |  `----.|  |____
+**              \__/  |_______/       |__|    |__| |_______||_______|
+*/
